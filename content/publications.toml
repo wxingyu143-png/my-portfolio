@@ -1,0 +1,24 @@
+type = "card"
+title = "Projects"
+description = "Selected projects demonstrating my cross-cultural communication, English language skills, and digital tool application."
+
+[[items]]
+title = "Cross-Cultural Communication and Business Project"
+subtitle = "Team Project | 5 Members"
+date = "May 2026 – June 2026"
+content = "Led a five-member team researching cultural differences across countries. Coordinated project planning, task assignments, and information collection, and prepared a research report. Organized an English role-play simulating a power bank refund dispute between a Chinese customer and a foreign store clerk, strengthening cross-cultural communication, teamwork, and business English skills."
+tags = ["Cross-Cultural Communication", "Business English", "Teamwork"]
+
+[[items]]
+title = "English Language Practice in Yangshuo, Guilin"
+subtitle = "Field Research | English Practice"
+date = "March 2026 – April 2026"
+content = "Participated in a seven-day English language practice program, communicating with international tourists, local business owners, and scenic-area staff. Observed and analyzed bilingual signs and Chinglish expressions in tourist areas. Completed an approximately 1,000-word English research report and an English-language practice handbook."
+tags = ["English Practice", "Field Research", "English Writing"]
+
+[[items]]
+title = "Personal Bilingual Portfolio Website"
+subtitle = "Independent Project | Self-Directed Learning"
+date = "October 2026 – Present"
+content = "Designed and organized a bilingual personal portfolio website to support applications for international business, foreign-company, and AI language-related roles. Developed Chinese and English profile content, structured project and career information, and used AI tools to assist with website configuration and content refinement. Applied digital tools to bilingual content organization and professional self-presentation."
+tags = ["Personal Portfolio", "Bilingual Content", "AI Tools"]

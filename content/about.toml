@@ -1,0 +1,33 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Cross-Cultural Communication",
+  "International Business",
+  "AI and Language Applications"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About Me"
+
+[[sections]]
+id = "strengths"
+type = "list"
+title = "Core Strengths"
+items = [
+  { date = "English", content = "CET-4: 612, CET-6: 586, TEM-4: Good." },
+  { date = "Communication", content = "Experience in cross-cultural research, English presentations, and teamwork." },
+  { date = "Business", content = "Practical experience in course introduction, customer communication, and follow-up." }
+]
+
+[[sections]]
+id = "career_interests"
+type = "list"
+title = "Career Interests"
+items = [
+  { date = "Focus", content = "International business, cross-border e-commerce, and AI-related language roles." }
+]

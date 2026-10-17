@@ -1,0 +1,31 @@
+type = "card"
+title = "Professional Skills"
+description = "Key skills and qualifications relevant to international business, English communication, and AI-related language roles."
+
+[[items]]
+title = "English Proficiency"
+subtitle = "Language Qualifications"
+date = "Verified Scores"
+content = "CET-4: 612; CET-6: 586; TEM-4: Good. Strong foundation in English reading, writing, and communication."
+tags = ["English", "CET-4", "CET-6", "TEM-4"]
+
+[[items]]
+title = "Cross-Cultural Communication"
+subtitle = "Academic Project Experience"
+date = "Undergraduate Studies"
+content = "Participated in cross-cultural research, coordinated a five-member team, prepared project materials, and delivered an English presentation and role-play."
+tags = ["Cross-Cultural Communication", "Teamwork", "Presentations"]
+
+[[items]]
+title = "Customer Communication and Sales Support"
+subtitle = "Practical Experience"
+date = "Internship Experience"
+content = "Gained practical experience in course introduction, parent communication, customer inquiries, and enrollment renewal follow-up."
+tags = ["Customer Communication", "Sales Support", "Customer Service"]
+
+[[items]]
+title = "Bilingual Content and AI Applications"
+subtitle = "Personal Development"
+date = "Ongoing"
+content = "Developing a bilingual personal portfolio website and exploring the use of AI tools for English-language content organization and professional presentation."
+tags = ["Bilingual Content", "AI Tools", "Digital Skills"]

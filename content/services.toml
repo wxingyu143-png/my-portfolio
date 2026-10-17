@@ -1,0 +1,31 @@
+type="card"
+title = "Career Interests"
+description = "Career paths combining English, international business, and AI."
+
+[[items]]
+title = "International Trade"
+subtitle = "Target Roles"
+date = "Career Interest"
+content = "Interested in overseas customer communication, business correspondence, sales support, and international business operations."
+tags = ["International Trade", "Business English", "Sales Support"]
+
+[[items]]
+title = "Cross-Border E-commerce"
+subtitle = "Target Roles"
+date = "Career Interest"
+content = "Interested in overseas market research, English product content, customer needs analysis, and cross-border business operations."
+tags = ["E-commerce", "Overseas Operations", "Market Research"]
+
+[[items]]
+title = "AI Language Roles"
+subtitle = "Target Roles"
+date = "Career Interest"
+content = "Interested in AI language evaluation, English data quality assessment, and AI product localization."
+tags = ["AI", "English Data", "Language Evaluation"]
+
+[[items]]
+title = "International Company Support"
+subtitle = "Target Roles"
+date = "Career Interest"
+content = "Open to entry-level roles in customer support, sales coordination, and operations at international companies."
+tags = ["Customer Support", "Sales Coordination", "Operations"]

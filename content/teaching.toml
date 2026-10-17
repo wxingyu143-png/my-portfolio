@@ -1,0 +1,17 @@
+type = "card"
+title = "Internship Experience"
+description = "Practical experience in English teaching, sales, and customer communication."
+
+[[items]]
+title = "English Teaching Intern & Sales Assistant"
+subtitle = "Teaching and Sales"
+date = "September 2025 - January 2026"
+content = "Supported English teaching and daily educational activities. Introduced courses to parents, answered inquiries, followed up on enrollment renewals, and assisted with customer communication."
+tags = ["English Teaching", "Sales Support", "Customer Communication", "Course Promotion"]
+
+[[items]]
+title = "English Teaching Intern"
+subtitle = "Public High School"
+date = "September 2026 - Present"
+content = "Participated in English teaching practice at a public high school, assisting with classroom activities and daily teaching tasks. Developed practical experience in English instruction, classroom communication, and teaching support."
+tags = ["English Teaching", "Classroom Support", "Communication", "Teaching Practice"]

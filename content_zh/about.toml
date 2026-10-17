@@ -1,0 +1,33 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "跨文化沟通",
+  "国际商务",
+  "人工智能与语言应用"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "strengths"
+type = "list"
+title = "核心优势"
+items = [
+  { date = "英语", content = "CET-4 612 分，CET-6 586 分，TEM-4 良好。" },
+  { date = "沟通", content = "具备跨文化沟通、英文资料整理及团队协作经验。" },
+  { date = "实践", content = "拥有课程介绍、家长沟通与续课跟进相关经验。" }
+]
+
+[[sections]]
+id = "career_interests"
+type = "list"
+title = "求职方向"
+items = [
+  { date = "方向", content = "国际业务、跨境电商及 AI 英语语言相关岗位。" }
+]
